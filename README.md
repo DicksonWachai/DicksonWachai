@@ -20,18 +20,18 @@ Dare to dream. Changing the world by building software that will impact our day-
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
                     
-                  ### Socials
+                  ###Socials
                   
                   
-                <p align="left">
+ <p align="left">
                           
-                      <a href="https://www.github.com/DicksonWachai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+ <a href="https://www.github.com/DicksonWachai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
-                      <a href="https://dickson-wachai.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+ <a href="https://dickson-wachai.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.linkedin.com/in/dickson-nduati-69a911b4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/dickson-nduati-69a911b4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.twitter.com/deexon_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+<a href="https://www.twitter.com/deexon_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/DicksonWachai"><img src="https://github-readme-stats.vercel.app/api?username=DicksonWachai&show_icons=true&hide=&count_private=true&title_color=000000&text_color=facc15&icon_color=22c55e&bg_color=312e81&hide_border=true&show_icons=true" alt="DicksonWachai's GitHub stats" /></a><a
                       href="http://www.github.com/DicksonWachai"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=DicksonWachai&stroke=facc15&background=312e81&ring=000000&fire=000000&currStreakNum=facc15&currStreakLabel=000000&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a><a
